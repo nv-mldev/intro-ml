@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Inductive Bias in Machine Learning}{17}{0}{1}
+\beamer@subsectionintoc {1}{1}{Types of Inductive Biases}{18}{0}{1}
+\beamer@subsectionintoc {1}{2}{Inductive Bias in Recurrent Neural Networks (RNNs and LSTMs)}{28}{0}{1}
+\beamer@subsectionintoc {1}{3}{Inductive Bias in Transformers (e.g., BERT, GPT)}{30}{0}{1}
+\beamer@sectionintoc {2}{Machine Learning}{35}{0}{2}
