@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1740968446 "/Users/nithinvadekkapat/work/intro-ml/notes/introduction.tex" "introduction.pdf" "introduction" 1740968448 0
-  "/Users/nithinvadekkapat/work/intro-ml/notes/introduction.tex" 1740968445 27191 9b360a2236784317d539f309a23dd1a1 ""
+["pdflatex"] 1757815915 "/Users/nithinvadekkapat/work/intro-ml/notes/introduction.tex" "introduction.pdf" "introduction" 1757815917 0
+  "/Users/nithinvadekkapat/work/intro-ml/notes/introduction.tex" 1757815915 27206 8809421380f7eaad9941171d5912718d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -310,9 +310,9 @@
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1684425911 7883455 938180f2acef8909a469ea0b2292a446 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "figures/superstition.png" 1740888529 497928 ae8ab7fcf72664436dad80bfdb5ed6c4 ""
-  "introduction.aux" 1740968448 11178 aa588bede2ae89b131a46433b8914916 "pdflatex"
-  "introduction.nav" 1740968448 5764 3cd44489024f16aeec3e3222db4b8d4a "pdflatex"
-  "introduction.tex" 1740968445 27191 9b360a2236784317d539f309a23dd1a1 ""
+  "introduction.aux" 1757815917 11178 aa588bede2ae89b131a46433b8914916 "pdflatex"
+  "introduction.nav" 1757815917 5764 3cd44489024f16aeec3e3222db4b8d4a "pdflatex"
+  "introduction.tex" 1757815915 27206 8809421380f7eaad9941171d5912718d ""
   (generated)
   "introduction.aux"
   "introduction.log"
